@@ -4,3 +4,4 @@ def calculate_sum(numbers):
         total += numbers[i]
     return total
 //this calculates sum of numbers 
+print("hello world!")
