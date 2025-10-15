@@ -3,4 +3,4 @@ def calculate_sum(numbers):
     for i in range(len(numbers)):
         total += numbers[i]
     return total
-//this calculates sum of numbers
+//this calculates sum of numbers 
